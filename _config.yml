@@ -1,7 +1,7 @@
-title: Long Haul
+title: Machine Learning for Health
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
-url: http://brianmaierjr.github.com/long-haul
+url: http://CS2541-ML4H2019.github.io
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -14,15 +14,17 @@ paginate: 5
 navigation:
  - title: Home
    url: /index.html
- - title: About
-   url: /about
- - title: Contact
-   url: /contact
+ - title: Project
+   url: /Project
+ - title: Schedule
+   url: /schedule
+ # - title: Contact
+ #   url: /contact
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   github: CS2541-ML4H2019
+   twitter: #twitter
+   facebook: 
+   email: #
 
 google_analytics: "UA-58263416-1"

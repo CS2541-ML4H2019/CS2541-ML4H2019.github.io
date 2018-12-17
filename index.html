@@ -1,11 +1,39 @@
 ---
 layout: default
-title: Long Haul
+title: Machine Learning for Health
 ---
 
 <div class="home" id="home">
-  <h1 class="pageTitle">Recent Posts</h1>
-  <ul class="posts noList">
+  <h1 class="pageTitle">CSC2541HS: Topics in Machine Learning:</h1>
+  <h2 class="pageTitle">Machine Learning for Health </h2>
+  <p>
+This course will give a broad overview of machine learning for health. We begin with an overview of what makes healthcare unique, and then explore machine learning methods for clinical and healthcare applications through recent papers. We discuss the recent successes of of graphical models, deep learning, time-series analysis, and transfer learning in the context of health. We also broadly cover concepts of learning, algorithmic fairness, interpretability, and causality. We emphasize the importance of collaboration between technical and non-technical researchers, and consider the implications of machine learning in healthcare governance and policy. Students will choose and complete a course project, and make project presentations at the end of the course. <b>This course requires a strong background in linear algebra and probability theory, or strong grades in the machine learning course</b>. Familiarity with programming and software engineering is beneficial, but not required.
+</p>
+<h2>Overview</h2>
+<p>Instructor: <a href="http://www.marzyehghassemi.com/">Dr. Marzyeh Ghassemi</a><br>
+Course Title: Topics in Machine Learning: Machine Learning for Health<br>
+Time: Thursdays 10 AM - 12 PM<br>
+Room: <a href="http://map.utoronto.ca/utsg/building/005">MS 4279</a><br>
+
+TAs: Bret Nestor, Sayyed Nezhadi , Bai Li<br>
+
+Piazza: <a href="https://piazza.com/utoronto.ca/winter2019/csc2541">https://piazza.com/utoronto.ca/winter2019/csc2541</a>
+</p>
+<h2>Grading</h2>
+<p>Course grade will be made up of:
+  <ul>
+    <li><b>10%</b> Homework (1 problem set)</li>
+    <li><b>15%</b> Weekly reflections submitted in Markus to <b>all</b> required papers in reading list (1-2 questions)</li>
+    <li><b>15%</b> Paper presentation done on a topic in-class (sign-up after the first lecture)</li>
+    <li><b>60%</b> Course project (an eight-page write up of your application of ML approaches to a healthcare problem)</li>
+</ul>
+</p>
+<h3>Related Courses</h3>
+<p>
+  <a href="http://www.cs.princeton.edu/~bee/courses/cos597c.html">http://www.cs.princeton.edu/~bee/courses/cos597c.html</a><br>
+  <a href="https://mlhc17mit.github.io/">https://mlhc17mit.github.io/</a>
+</p>
+  <!-- <ul class="posts noList">
     {% for post in paginator.posts %}
       <li>
         <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
@@ -14,7 +42,7 @@ title: Long Haul
       </li>
     {% endfor %}
   </ul>
-  <!-- Pagination links -->
+  Pagination links
   <div class="pagination">
     {% if paginator.previous_page %}
       <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous button__outline">Newer Posts</a> 
@@ -22,5 +50,5 @@ title: Long Haul
     {% if paginator.next_page %}
       <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next button__outline">Older Posts</a>
     {% endif %}
-  </div>
+  </div> -->
 </div>
