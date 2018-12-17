@@ -9,6 +9,7 @@ GEM
     jekyll (3.4.3)
       addressable (~> 2.4)
       colorator (~> 1.0)
+      ffi (~> 1.9.24)
       jekyll-sass-converter (~> 1.0)
       jekyll-watch (~> 1.1)
       kramdown (~> 1.3)
@@ -49,4 +50,4 @@ DEPENDENCIES
   support-for
 
 BUNDLED WITH
-   1.14.6
+   1.17.2
