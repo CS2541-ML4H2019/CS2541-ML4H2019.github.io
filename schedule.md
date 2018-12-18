@@ -87,7 +87,7 @@ title: Schedule
       </ul>
     </td>
     <td>
-      Project proposals due at 5PM
+      Homework 1 due at 11:59 PM on MarkUs
     </td>
   </tr>
   <tr>
@@ -104,6 +104,7 @@ title: Schedule
       </ul>
     </td>
     <td>
+	    Project proposals due at 5PM
     </td>
   </tr>
   <tr>
