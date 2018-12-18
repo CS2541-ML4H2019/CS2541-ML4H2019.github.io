@@ -575,7 +575,7 @@ table {
   border: 1px solid #d0d0d0;
   margin-bottom: 1.5em; }
   table caption {
-    margin: 0 0 7px;
+    margin: 0 0 2px;
     font-size: 0.75em;
     color: #aaa;
     text-transform: uppercase;
@@ -587,7 +587,7 @@ tr {
     background-color: #f7f7f7; }
 
 td {
-  padding: 7px;
+  padding: 2px;
   border-right: 1px solid #d0d0d0; }
   td:last-child {
     border-right: 0; }
@@ -833,7 +833,7 @@ POST STYLING
 
 .post blockquote {
   clear: both;
-  margin: 2.5em 0;
+  margin: 1em 0;
   padding: 0;
   line-height: 1.8;
   position: relative; }
@@ -1105,7 +1105,7 @@ POST STYLING
   .post h1, .post h2, .post h3, .post h4, .post h5, .post h6, .post p, .post ul, .post ol, .post dl, .post .pageTitle {
     width: 75%;
     float: none;
-    margin: 0 auto 2rem; }
+    margin: 0 auto 1rem; }
   .post h1, .post .h1, .post h2, .post .h2, .post h3, .post .h3, .post h4, .post .h4, .post h5, .post .h5, .post h6, .post .h6 {
     margin: 1rem auto; }
   .post .pageTitle {

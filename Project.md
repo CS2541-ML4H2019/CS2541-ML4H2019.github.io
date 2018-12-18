@@ -3,10 +3,11 @@ layout: default
 title: Course Project
 ---
 
-<div class="post">
+<div class="home" id="project">
 	<h1 class="pageTitle">Course Project</h1>
-	<img src="{{ '/assets/img/More_Logo-1.png' | prepend: site.baseurl }}" alt="">
-	<p class="intro">Project due dates:
+	<!-- <img src="{{ '/assets/img/More_Logo-1.png' | prepend: site.baseurl }}" alt=""> -->
+  <h2>Project Deadlines</h2>
+	<p class="intro">
     <ul>
       <li><a href="#proposal">Project proposals</a> (one per group): Feb 7th at 5pm.</li>
       <li><a href="#presentation">Project presentations</a>: March 28th and April 4th in class.</li>

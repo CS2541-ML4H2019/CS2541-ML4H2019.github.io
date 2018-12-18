@@ -12,6 +12,7 @@ title: Schedule
     <th>Date</th>
     <th>Subject</th> 
     <th>Readings</th>
+    <th>Student Presentation</th>
     <th>Deadlines</th>
   </tr>
   <tr>
@@ -23,6 +24,8 @@ title: Schedule
         <li>[Required] <a href="https://www.bmj.com/content/361/bmj.k1479">Biases in electronic health record data due to processes within the healthcare system: retrospective observational study</a></li>
         <li>[Optional] <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6908959">A $3 Trillion Challenge to Computational Scientists: Transforming Healthcare Delivery</a></li>
       </ul>
+    </td>
+    <td>
     </td>
     <td>
     </td>
@@ -39,10 +42,12 @@ title: Schedule
     </td>
     <td>
     </td>
+    <td>
+    </td>
   </tr>
   <tr>
     <td>Jan 24, 2019</td>
-    <td>Lecture 3: Causal inference with observational data<br>Guest Lecture by <b>TBD</b></td> 
+    <td>Lecture 3: Causal inference with observational data</td> 
     <td>
       <ul>
         <li>[Required] <a href="https://www.jstor.org/stable/2289064">Statistics and Causal Inference</a></li>
@@ -53,10 +58,12 @@ title: Schedule
     </td>
     <td>
     </td>
+    <td>
+    </td>
   </tr>
   <tr>
     <td>Jan 31, 2019</td>
-    <td>Lecture 4: Fairness, Ethics, and Healthcare<br>Guest Lecture by <b>TBD</b></td> 
+    <td>Lecture 4: Fairness, Ethics, and Healthcare</td> 
     <td>
       <ul>
         <li>[required] <a href="https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing">Machine bias</a> and accompanying <a href="https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm">statistical analyses</a></li>
@@ -73,10 +80,12 @@ title: Schedule
     </td>
     <td>
     </td>
+    <td>
+    </td>
   </tr>
   <tr>
     <td id="feb">Feb 7, 2019</td>
-    <td>Lecture 5: Clinical Time Series Modelling<br>Guest Lecture by <b>TBD</b></td> 
+    <td>Lecture 5: Clinical Time Series Modelling</td> 
     <td>
       <ul>
         <li>[Required] <a href="http://mucmd.org/CameraReadySubmissions/65%5CCameraReadySubmission%5Cclinical-intervention-prediction%20(4).pdf">Clinical Intervention Prediction and Understanding with Deep Neural Networks</a></li>
@@ -87,12 +96,14 @@ title: Schedule
       </ul>
     </td>
     <td>
+    </td>
+    <td>
       Homework 1 due at 11:59 PM on MarkUs
     </td>
   </tr>
   <tr>
     <td>Feb 14, 2019</td>
-    <td>Lecture 6: Clinical Imaging (Radiology/Pathology)<br>Guest Lecture by <b>TBD</b></td> 
+    <td>Lecture 6: Clinical Imaging (Radiology/Pathology)></td> 
     <td>
       <ul>
         <li>[Required] <a href="https://www.nejm.org/doi/full/10.1056/NEJMp1716891">Bedside computer vision — Moving artificial intelligence from driver assistance to patient safety</a></li>
@@ -104,12 +115,14 @@ title: Schedule
       </ul>
     </td>
     <td>
+    </td>
+    <td>
 	    Project proposals due at 5PM
     </td>
   </tr>
   <tr>
     <td>Feb 21, 2019</td>
-    <td>Lecture 7: Clinical NLP and Audio<br>Guest Lecture by <b>TBD</b></td> 
+    <td>Lecture 7: Clinical NLP and Audio</td> 
     <td>
       <ul>
         <li>[Required] <a href="https://arxiv.org/abs/1808.08485">Deep Probabilistic Logic: A Unifying Framework for Indirect Supervision</a></li>
@@ -120,10 +133,12 @@ title: Schedule
     </td>
     <td>
     </td>
+    <td>
+    </td>
   </tr>
   <tr>
     <td>Feb 28, 2019</td>
-    <td>Lecture 8: Clinical Reinforcement Learning<br>Guest Lecture by <b>TBD</b></td> 
+    <td>Lecture 8: Clinical Reinforcement Learning</td> 
     <td>
       <ul>
         <li>[Required] <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3143507/pdf/nihms266705.pdf">Informing sequential clinical decision-making through reinforcement learning: an empirical study</a></li>
@@ -137,10 +152,12 @@ title: Schedule
     </td>
     <td>
     </td>
+    <td>
+    </td>
   </tr>
   <tr>
     <td id="mar">Mar 7, 2019</td>
-    <td>Lecture 9: Missingness and Representations<br>Guest Lecture by <b>TBD</b></td> 
+    <td>Lecture 9: Missingness and Representations</td> 
     <td>
       <ul>
         <li>[Required] <a href="https://arxiv.org/pdf/1606.01865.pdf">Recurrent Neural Networks for Multivariate Time Series with Missing Values</a></li>
@@ -152,10 +169,12 @@ title: Schedule
     </td>
     <td>
     </td>
+    <td>
+    </td>
   </tr>
   <tr>
     <td>Mar 14, 2019</td>
-    <td>Lecture 10: Generalization and transfer learning<br>Guest Lecture by <b>TBD</b></td> 
+    <td>Lecture 10: Generalization and transfer learning</td> 
     <td>
       <ul>
         <li>[Required] <a href="https://www.sciencedirect.com/science/article/pii/S1532046415002282">Implications of non-stationarity on predictive modeling using EHRs</a></li>
@@ -164,10 +183,12 @@ title: Schedule
     </td>
     <td>
     </td>
+    <td>
+    </td>
   </tr>
   <tr>
     <td>Mar 21, 2019</td>
-    <td>Lecture 11: Interpretability / Humans-In-The-Loop / Policies and Politics<br>Guest Lecture by <b>TBD</b></td> 
+    <td>Lecture 11: Interpretability / Humans-In-The-Loop / Policies and Politics</td> 
     <td>
       <ul>
         <li>[Required] <a href="http://people.dbmi.columbia.edu/noemie/papers/15kdd.pdf">Intelligible Models for HealthCare: Predicting Pneumonia Risk and Hospital 30-day Readmission</a></li>
@@ -180,17 +201,23 @@ title: Schedule
     </td>
     <td>
     </td>
+    <td>
+    </td>
   </tr>
   <tr>
     <td>Mar 28, 2019</td>
     <td>Course Presentations</td> 
     <td></td>
+    <td>
+    </td>
     <td></td>
   </tr>
   <tr>
     <td>April 4, 2019</td>
     <td>Course Presentations</td> 
     <td></td>
+    <td>
+    </td>
     <td>Project report due 11:59PM</td>
   </tr>
 </table>
