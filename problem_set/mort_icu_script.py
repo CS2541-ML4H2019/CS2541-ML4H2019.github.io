@@ -74,9 +74,7 @@ SELECT ie.subject_id, ie.hadm_id, ie.icustay_id
 , ROUND( (CAST(adm.admittime AS DATE) - CAST(pat.dob AS DATE))  / 365, 4) AS age
 , adm.ethnicity, adm.ADMISSION_TYPE
 --, adm.hospital_expire_flag
-, CASE when adm.deathtime between adm.admittime and adm.dischtime THEN 1 ELSE 0 END AS mort_hosp
 , CASE when adm.deathtime between ie.intime and ie.outtime THEN 1 ELSE 0 END AS mort_icu
-, CASE when adm.deathtime between adm.admittime and adm.admittime + interval '365' day  THEN 1 ELSE 0 END AS mort_oneyr
 , DENSE_RANK() OVER (PARTITION BY adm.subject_id ORDER BY adm.admittime) AS hospstay_seq
 , CASE
     WHEN DENSE_RANK() OVER (PARTITION BY adm.subject_id ORDER BY adm.admittime) = 1 THEN 1
@@ -472,7 +470,7 @@ adult_icu['train'] = np.where(msk, 1, 0)
 adult_icu.to_csv(os.path.join(mimicdir, 'adult_icu.gz'), compression='gzip',  index = False)
 
 # notes 
-adult_notes = notes48.merge(adult_icu[['train', 'subject_id', 'hadm_id', 'icustay_id', 'mort_hosp', 'mort_icu', 'mort_oneyr']], how = 'right', on = ['subject_id', 'hadm_id', 'icustay_id'])
+adult_notes = notes48.merge(adult_icu[['train', 'subject_id', 'hadm_id', 'icustay_id', 'mort_icu']], how = 'right', on = ['subject_id', 'hadm_id', 'icustay_id'])
 adult_notes.to_csv(os.path.join(mimicdir, 'adult_notes.gz'), compression='gzip',  index = False)
 
 # nicu 
@@ -483,5 +481,4 @@ n_icu = mort_ds[(mort_ds.adult_icu==0)].drop(removes, 1).dropna()
 # create training and testing 
 msk = np.random.rand(len(n_icu)) < 0.7
 n_icu['train'] = np.where(msk, 1, 0) 
-n_icu.to_csv(os.path.join(mimicdir, 'n_icu.gz'), compression='gzip',  index = False)
-
+#n_icu.to_csv(os.path.join(mimicdir, 'n_icu.gz'), compression='gzip',  index = False)
