@@ -98,7 +98,7 @@ title: Schedule
     <td>
     </td>
     <td>
-      Homework 1 due at 11:59 PM on MarkUs
+      Homework 1 due at 11:59 PM on <a href="https://markus.teach.cs.toronto.edu/csc2541-2019-01">MarkUs</a>
     </td>
   </tr>
   <tr>
@@ -117,7 +117,7 @@ title: Schedule
     <td>
     </td>
     <td>
-	    Project proposals due at 5PM
+	    Project proposals due at 5PM <a href="https://docs.google.com/forms/d/e/1FAIpQLSfOSqcEhOnDvTmkMlOViUY1YF7i3eZOs6RumhWtiihrdBVVag/viewform?usp=sf_link">here</a>.
     </td>
   </tr>
   <tr>

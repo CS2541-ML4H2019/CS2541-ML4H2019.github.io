@@ -31,7 +31,7 @@ Collaboration: We strongly prefer 3-4 registered student per group, but we do pe
       <li>What each student in the group will do.</li>
     </ul>
   </p>
-  <p>We understand that much of this would be preliminary at this stage, but these details are important for us to ensure that you are on the right track. Send as a PDF to <b>TBD</b>.</p>
+  <p>We understand that much of this would be preliminary at this stage, but these details are important for us to ensure that you are on the right track. <a href="https://docs.google.com/forms/d/e/1FAIpQLSfOSqcEhOnDvTmkMlOViUY1YF7i3eZOs6RumhWtiihrdBVVag/viewform?usp=sf_link">Submit proposals here</a></p>
   <h2 id="presentation">Presentation</h2>
   <p><em>15% of project</em></p>
   <p>15 minutes in class on either March 28th or April 4th. Be prepared for questions after.
