@@ -18,8 +18,8 @@ navigation:
    url: /Project
  - title: Schedule
    url: /schedule
- # - title: Contact
- #   url: /contact
+ - title: Reflection
+   url: /reflections
 
 social:
    github: CS2541-ML4H2019
