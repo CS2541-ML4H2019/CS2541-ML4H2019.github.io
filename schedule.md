@@ -98,7 +98,8 @@ title: Schedule
     <td>
     </td>
     <td>
-      Homework 1 due at 11:59 PM on <a href="https://markus.teach.cs.toronto.edu/csc2541-2019-01">MarkUs</a>
+      <a href='/problem_set/CS2541-ProblemSet-1.pdf'>Homework 1</a> due at 11:59 PM on <a href="https://markus.teach.cs.toronto.edu/csc2541-2019-01">MarkUs</a><br>
+      The code for extracting the data from the MIMIC psql database is <a href="https://github.com/CS2541-ML4H2019/CS2541-ML4H2019.github.io/tree/master/problem_set">here</a>
     </td>
   </tr>
   <tr>
