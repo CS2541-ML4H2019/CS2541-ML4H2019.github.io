@@ -17,7 +17,7 @@ title: Schedule
   </tr>
   <tr>
     <td>Jan 10, 2019 </td>
-    <td>Lecture 1: Why is healthcare unique?</td> 
+    <td>Lecture 1: Why is healthcare unique? <br> <a href="https://cs2541-ml4h2019.github.io/lectures/CSC2541 - Lecture 1.pdf"> Slides </a> </td> 
     <td>
       <ul>
         <li>[Required] <a href="https://arxiv.org/pdf/1806.00388.pdf">Opportunities in Machine Learning for Healthcare</a></li>
