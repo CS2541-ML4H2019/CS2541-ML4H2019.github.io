@@ -147,12 +147,12 @@ title: Schedule
       <ul>
         <li>[Required] <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3143507/pdf/nihms266705.pdf">Informing sequential clinical decision-making through reinforcement learning: an empirical study</a></li>
         <li>[Required] <a href="https://arxiv.org/pdf/1704.06300.pdf">A Reinforcement Learning Approach to Weaning of Mechanical Ventilation in Intensive Care Units</a></li>
-        <li>[Required] <a href="https://www.nature.com/articles/s41746-018-0029-1.pdf">Scalable and accurate deep learning with electronic health records</a></li>
         <li><a href="https://arxiv.org/pdf/1707.06289.pdf">Meaningless comparisons lead to false optimism in medical machine learning</a></li>
         <li>[Required] <a href="https://arxiv.org/pdf/1805.12298.pdf">Evaluating Reinforcement Learning Algorithms in Observational Health Settings</a></li>
-        <li>[Required] <a href="https://arxiv.org/pdf/1807.01066.pdf">Behaviour policy estimation in off-policy policy evaluation: Calibration matters</a></li>
-        <li>[Required] <a href="https://arxiv.org/pdf/1711.03587.pdf">The stratified micro-randomized trial design: sample size considerations for testing nested causal effects of time-varying treatments</a></li>
-      </ul>
+        <li>[Optional] <a href="https://arxiv.org/pdf/1807.01066.pdf">Behaviour policy estimation in off-policy policy evaluation: Calibration matters</a></li>
+        <li>[Optional] <a href="https://arxiv.org/pdf/1711.03587.pdf">The stratified micro-randomized trial design: sample size considerations for testing nested causal effects of time-varying treatments</a></li>
+        <li>[Optional] <a href="https://www.nature.com/articles/s41746-018-0029-1.pdf">Scalable and accurate deep learning with electronic health records</a></li>     
+	    </ul>
     </td>
     <td>
     </td>
@@ -198,10 +198,10 @@ title: Schedule
         <li>[Required] <a href="http://people.dbmi.columbia.edu/noemie/papers/15kdd.pdf">Intelligible Models for HealthCare: Predicting Pneumonia Risk and Hospital 30-day Readmission</a></li>
         <li>[Required] <a href="https://people.csail.mit.edu/taolei/papers/emnlp16_rationale.pdf">Rationalizing Neural Predictions. </a></li>
         <li>[Required] <a href="https://arxiv.org/pdf/1606.03490.pdf">The Mythos of Model Interpretability.</a></li>
-        <li>[Required] <a href="https://www.sciencedirect.com/science/article/pii/S2211883718300996">Why policymakers should care about “big data” in healthcare</a></li>
-        <li>[Required] <a href="https://link.springer.com/chapter/10.1007/978-3-540-79228-4_1">Differential Privacy: A Survey of Results</a></li>
+        <li>[Optional] <a href="https://link.springer.com/chapter/10.1007/978-3-540-79228-4_1">Differential Privacy: A Survey of Results</a></li>
         <li>[Optional] <a href="https://users.cs.duke.edu/~cynthia/LakkarajuRu17.pdf">Learning Cost-Effective and Interpretable Treatment Regimes. </a></li>
-      </ul>
+        <li>[Optional] <a href="https://www.sciencedirect.com/science/article/pii/S2211883718300996">Why policymakers should care about “big data” in healthcare</a></li>      
+	    </ul>
     </td>
     <td>
     </td>
