@@ -34,10 +34,14 @@ title: Schedule
     <td>Jan 17, 2019 </td>
     <td>Lecture 2: Supervised Learning for Classification, Risk Scores and Survival</td> 
     <td>
-      <ul>
-        <li>[Required] <a href="https://www.ncbi.nlm.nih.gov/pubmed/26994063">Using Big Data to Emulate a Target Trial When a Randomized Trial Is Not Available</a></li>
+      <ul>		      
+        <li>[Required] <a href="https://www.nature.com/articles/s41598-018-24271-9">Recurrent Neural Networks for Multivariate Time Series with Missing Values</a></li>	
+        <li>[Required] <a href="https://academic.oup.com/jamia/article/24/3/488/2907906">Understanding vasopressor intervention and weaning: risk prediction in a public heterogeneous clinical time series database</a></li>	      
         <li>[Required] Deep Survival Analysis (<a href="https://arxiv.org/abs/1608.02158">https://arxiv.org/abs/1608.02158</a> or <a href="https://www.mlforhc.org/s/21.pdf">https://www.mlforhc.org/s/21.pdf</a>)</li>
-        <li>[Required] <a href="https://www.healthaffairs.org/doi/pdf/10.1377/hlthaff.2014.0041">Big data in health care: Using analytics to identify and manage high-risk and high-cost patients</a></li>
+	<li>[Optional] <a href="https://www.ncbi.nlm.nih.gov/pubmed/25289175">Unfolding Physiological State: Mortality Modelling in Intensive Care Units</a></li>
+        <li>[Optional] <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5543372/">Predicting intervention onset in the ICU with switching state space models</a></li>
+	<li>[Optional] <a href="https://www.healthaffairs.org/doi/pdf/10.1377/hlthaff.2014.0041">Big data in health care: Using analytics to identify and manage high-risk and high-cost patients</a></li>
+	<li>[Optional] <a href="https://www.ncbi.nlm.nih.gov/pubmed/26994063">Using Big Data to Emulate a Target Trial When a Randomized Trial Is Not Available</a></li>	
       </ul>
     </td>
     <td>
@@ -91,7 +95,6 @@ title: Schedule
         <li>[Required] <a href="http://mucmd.org/CameraReadySubmissions/65%5CCameraReadySubmission%5Cclinical-intervention-prediction%20(4).pdf">Clinical Intervention Prediction and Understanding with Deep Neural Networks</a></li>
         <li>[Required] <a href="https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/5b73729d562fa79aabf87383/1534292642748/9.pdf">Towards Understanding ECG Rhythm Classification Using Convolutional Neural Networks and Attention Mappings</a></li>
         <li>[Required] <a href="https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/5b7372dc1ae6cf102e27b7e7/1534292701747/13.pdf">Disease-Atlas: Navigating Disease Trajectories using Deep Learning</a></li>
-        <li>[Required] <a href="https://academic.oup.com/jamia/article/24/3/488/2907906">Understanding vasopressor intervention and weaning: risk prediction in a public heterogeneous clinical time series database</a></li>
         <li>[Required] <a href="http://www.sciencedirect.com/science/article/pii/S1532046414000847">Identifying and mitigating biases in EHR laboratory tests.</a></li>
       </ul>
     </td>
