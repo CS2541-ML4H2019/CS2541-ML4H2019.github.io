@@ -38,6 +38,7 @@ title: Schedule
         <li>[Required] <a href="https://www.nature.com/articles/s41598-018-24271-9">Recurrent Neural Networks for Multivariate Time Series with Missing Values</a></li>	
         <li>[Required] <a href="https://academic.oup.com/jamia/article/24/3/488/2907906">Understanding vasopressor intervention and weaning: risk prediction in a public heterogeneous clinical time series database</a></li>	      
         <li>[Required] Deep Survival Analysis (<a href="https://arxiv.org/abs/1608.02158">https://arxiv.org/abs/1608.02158</a> or <a href="https://www.mlforhc.org/s/21.pdf">https://www.mlforhc.org/s/21.pdf</a>)</li>
+	<li>[Optional] <a href="http://proceedings.mlr.press/v68/johnson17a/johnson17a.pdf"> Reproducibility in critical care: a mortality prediction case study </a> </li>
 	<li>[Optional] <a href="https://www.ncbi.nlm.nih.gov/pubmed/25289175">Unfolding Physiological State: Mortality Modelling in Intensive Care Units</a></li>
         <li>[Optional] <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5543372/">Predicting intervention onset in the ICU with switching state space models</a></li>
 	<li>[Optional] <a href="https://www.healthaffairs.org/doi/pdf/10.1377/hlthaff.2014.0041">Big data in health care: Using analytics to identify and manage high-risk and high-cost patients</a></li>
