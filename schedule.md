@@ -45,8 +45,16 @@ title: Schedule
       </ul>
     </td>
     <td>
+	<ul>		      
+		<li> Grey Kuling on Big Data In Health Care: Using Analytics To Identify And Manage High-Risk And High-Cost Patients </li>
+	 </ul>
     </td>
     <td>
+	<b> Reflection Questions on Required Papers</b>: 
+	<ul>		      
+		<li> Constrast the predictive tasks (e.g., labels in the objective function) in each of the required papers; what are the benefits and drawbacks of each?</li>
+		<li> Would you deploy any of these supervised models?</li>
+	</ul>
     </td>
   </tr>
   <tr>
