@@ -52,7 +52,7 @@ title: Schedule
     <td>
 	<b> Reflection Questions on Required Papers</b>: 
 	<ul>		      
-		<li> Constrast the predictive tasks (e.g., labels in the objective function) in each of the required papers; what are the benefits and drawbacks of each?</li>
+		<li> Contrast the predictive tasks (e.g., labels in the objective function) in each of the required papers; what are the benefits and drawbacks of each?</li>
 		<li> Would you deploy any of these supervised models?</li>
 	</ul>
     </td>
