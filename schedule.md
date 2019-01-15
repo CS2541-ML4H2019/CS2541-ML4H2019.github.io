@@ -70,7 +70,6 @@ title: Schedule
     <td>Lecture 4: Fairness, Ethics, and Healthcare</td> 
     <td>
       <ul>
-        <li>[required] <a href="https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing">Machine bias</a> and accompanying <a href="https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm">statistical analyses</a></li>
         <li>[Required] <a href="http://www.jmlr.org/proceedings/papers/v28/zemel13.pdf">Learning Fair Representations</a></li>
         <li>[Required] <a href="https://arxiv.org/pdf/1805.12002.pdf">Why is My Classifier Discriminatory?</a></li>
         <li>[Required] One of the following three readings:
@@ -80,6 +79,7 @@ title: Schedule
             <li><a href="https://arxiv.org/pdf/1610.02413.pdf">Equality of Opportunity in Supervised Learning</a></li>
           </ul>
         </li>
+        <li>[Optional] <a href="https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing">Machine bias</a> and accompanying <a href="https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm">statistical analyses</a></li>	      
       </ul>
     </td>
     <td>
@@ -164,11 +164,10 @@ title: Schedule
     <td>Lecture 9: Missingness and Representations</td> 
     <td>
       <ul>
-        <li>[Required] <a href="https://arxiv.org/pdf/1606.01865.pdf">Recurrent Neural Networks for Multivariate Time Series with Missing Values</a></li>
         <li>[Required] <a href="https://academic.oup.com/biomet/article-abstract/63/3/581/270932">Inference and missing data</a></li>
         <li>[Required] <a href="http://www.cs.toronto.edu/~zemel/documents/2011-IJCAI-MZRS.pdf">Recommender Systems: Missing Data and Statistical Model Estimation</a></li>
         <li>[Required] <a href="http://www.marzyehghassemi.com/wp-content/uploads/2018/01/semi-supervised-CWR-GAN_Ghassemi.pdf">Semi-supervised Biomedical Translation with Cycle Wasserstein Regression GANs</a></li>
-        <li>[Required] Word2vec, ELMO, BERT (i.e. embedding representations)</li>
+        <li>[Optional] Word2vec, ELMO, BERT (i.e. embedding representations) papers</li>
       </ul>
     </td>
     <td>
