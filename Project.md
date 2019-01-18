@@ -21,7 +21,7 @@ Collaboration: We strongly prefer 3-4 registered student per group, but we do pe
 </p>
   <h2 id="proposal">Proposal</h2>
   <p><em>15% of project</em></p>
-  <p>Due Feb 7th at 5pm. Note the proposal should be at most 3 pages, one per group. Clearly state the following:
+  <p>Due Feb 14th at 5pm. Note the proposal should be at most 3 pages, one per group. Clearly state the following:
     <ul>
       <li>Problem you wish to tackle</li>
       <li>Description of data you plan to use</li>

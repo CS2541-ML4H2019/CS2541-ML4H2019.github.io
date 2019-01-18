@@ -53,12 +53,13 @@ title: Schedule
         <li>[Required] <a href="https://www.jstor.org/stable/2289064">Statistics and Causal Inference</a></li>
         <li>[Required] <a href="http://stm.sciencemag.org/content/7/299/299ra122">A targeted real-time early warning score (TREWScore) for septic shock.</a></li>
         <li>[Required] <a href="https://papers.nips.cc/paper/6767-reliable-decision-support-using-counterfactual-models.pdf">Reliable Decision Support using Counterfactual Models</a></li>
-        <li>[Optional] <a href="https://arxiv.org/pdf/1703.10651.pdf">What-If Reasoning with Counterfactual Gaussian Processes.</a></li>
+        <li>[Optional] <a href="https://pdfs.semanticscholar.org/4a8e/692ede416d4864e15042696f53300a52089b.pdf">What-If Reasoning with Counterfactual Gaussian Processes.</a></li>
       </ul>
     </td>
     <td>
     </td>
     <td>
+      Q&A for Assignment 1 on Wednesday, Jan 23 at 4-6pm in GB 405.
     </td>
   </tr>
   <tr>
