@@ -17,7 +17,7 @@ title: Schedule
   </tr>
   <tr>
     <td>Jan 10, 2019 </td>
-    <td>Lecture 1: Why is healthcare unique?</td> 
+    <td>Lecture 1: Why is healthcare unique? <br> <a href="https://cs2541-ml4h2019.github.io/lectures/CSC2541 - Lecture 1.pdf"> Slides </a> </td> 
     <td>
       <ul>
         <li>[Required] <a href="https://arxiv.org/pdf/1806.00388.pdf">Opportunities in Machine Learning for Healthcare</a></li>
@@ -34,15 +34,28 @@ title: Schedule
     <td>Jan 17, 2019 </td>
     <td>Lecture 2: Supervised Learning for Classification, Risk Scores and Survival</td> 
     <td>
-      <ul>
-        <li>[Required] <a href="https://www.ncbi.nlm.nih.gov/pubmed/26994063">Using Big Data to Emulate a Target Trial When a Randomized Trial Is Not Available</a></li>
+      <ul>		      
+        <li>[Required] <a href="https://www.nature.com/articles/s41598-018-24271-9">Recurrent Neural Networks for Multivariate Time Series with Missing Values</a></li>	
+        <li>[Required] <a href="https://academic.oup.com/jamia/article/24/3/488/2907906">Understanding vasopressor intervention and weaning: risk prediction in a public heterogeneous clinical time series database</a></li>	      
         <li>[Required] Deep Survival Analysis (<a href="https://arxiv.org/abs/1608.02158">https://arxiv.org/abs/1608.02158</a> or <a href="https://www.mlforhc.org/s/21.pdf">https://www.mlforhc.org/s/21.pdf</a>)</li>
-        <li>[Required] <a href="https://www.healthaffairs.org/doi/pdf/10.1377/hlthaff.2014.0041">Big data in health care: Using analytics to identify and manage high-risk and high-cost patients</a></li>
+	<li>[Optional] <a href="http://proceedings.mlr.press/v68/johnson17a/johnson17a.pdf"> Reproducibility in critical care: a mortality prediction case study </a> </li>
+	<li>[Optional] <a href="https://www.ncbi.nlm.nih.gov/pubmed/25289175">Unfolding Physiological State: Mortality Modelling in Intensive Care Units</a></li>
+        <li>[Optional] <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5543372/">Predicting intervention onset in the ICU with switching state space models</a></li>
+	<li>[Optional] <a href="https://www.healthaffairs.org/doi/pdf/10.1377/hlthaff.2014.0041">Big data in health care: Using analytics to identify and manage high-risk and high-cost patients</a></li>
+	<li>[Optional] <a href="https://www.ncbi.nlm.nih.gov/pubmed/26994063">Using Big Data to Emulate a Target Trial When a Randomized Trial Is Not Available</a></li>	
       </ul>
     </td>
     <td>
+	<ul>		      
+		<li> Grey Kuling on Big Data In Health Care: Using Analytics To Identify And Manage High-Risk And High-Cost Patients </li>
+	 </ul>
     </td>
     <td>
+	<b> Reflection Questions on Required Papers</b>: 
+	<ul>		      
+		<li> Contrast the predictive tasks (e.g., labels in the objective function) in each of the required papers; what are the benefits and drawbacks of each?</li>
+		<li> Would you deploy any of these supervised models?</li>
+	</ul>
     </td>
   </tr>
   <tr>
@@ -67,7 +80,6 @@ title: Schedule
     <td>Lecture 4: Fairness, Ethics, and Healthcare</td> 
     <td>
       <ul>
-        <li>[required] <a href="https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing">Machine bias</a> and accompanying <a href="https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm">statistical analyses</a></li>
         <li>[Required] <a href="http://www.jmlr.org/proceedings/papers/v28/zemel13.pdf">Learning Fair Representations</a></li>
         <li>[Required] <a href="https://arxiv.org/pdf/1805.12002.pdf">Why is My Classifier Discriminatory?</a></li>
         <li>[Required] One of the following three readings:
@@ -77,6 +89,7 @@ title: Schedule
             <li><a href="https://arxiv.org/pdf/1610.02413.pdf">Equality of Opportunity in Supervised Learning</a></li>
           </ul>
         </li>
+        <li>[Optional] <a href="https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing">Machine bias</a> and accompanying <a href="https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm">statistical analyses</a></li>	      
       </ul>
     </td>
     <td>
@@ -92,7 +105,6 @@ title: Schedule
         <li>[Required] <a href="http://mucmd.org/CameraReadySubmissions/65%5CCameraReadySubmission%5Cclinical-intervention-prediction%20(4).pdf">Clinical Intervention Prediction and Understanding with Deep Neural Networks</a></li>
         <li>[Required] <a href="https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/5b73729d562fa79aabf87383/1534292642748/9.pdf">Towards Understanding ECG Rhythm Classification Using Convolutional Neural Networks and Attention Mappings</a></li>
         <li>[Required] <a href="https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/5b7372dc1ae6cf102e27b7e7/1534292701747/13.pdf">Disease-Atlas: Navigating Disease Trajectories using Deep Learning</a></li>
-        <li>[Required] <a href="https://academic.oup.com/jamia/article/24/3/488/2907906">Understanding vasopressor intervention and weaning: risk prediction in a public heterogeneous clinical time series database</a></li>
         <li>[Required] <a href="http://www.sciencedirect.com/science/article/pii/S1532046414000847">Identifying and mitigating biases in EHR laboratory tests.</a></li>
       </ul>
     </td>
@@ -145,12 +157,12 @@ title: Schedule
       <ul>
         <li>[Required] <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3143507/pdf/nihms266705.pdf">Informing sequential clinical decision-making through reinforcement learning: an empirical study</a></li>
         <li>[Required] <a href="https://arxiv.org/pdf/1704.06300.pdf">A Reinforcement Learning Approach to Weaning of Mechanical Ventilation in Intensive Care Units</a></li>
-        <li>[Required] <a href="https://www.nature.com/articles/s41746-018-0029-1.pdf">Scalable and accurate deep learning with electronic health records</a></li>
         <li><a href="https://arxiv.org/pdf/1707.06289.pdf">Meaningless comparisons lead to false optimism in medical machine learning</a></li>
         <li>[Required] <a href="https://arxiv.org/pdf/1805.12298.pdf">Evaluating Reinforcement Learning Algorithms in Observational Health Settings</a></li>
-        <li>[Required] <a href="https://arxiv.org/pdf/1807.01066.pdf">Behaviour policy estimation in off-policy policy evaluation: Calibration matters</a></li>
-        <li>[Required] <a href="https://arxiv.org/pdf/1711.03587.pdf">The stratified micro-randomized trial design: sample size considerations for testing nested causal effects of time-varying treatments</a></li>
-      </ul>
+        <li>[Optional] <a href="https://arxiv.org/pdf/1807.01066.pdf">Behaviour policy estimation in off-policy policy evaluation: Calibration matters</a></li>
+        <li>[Optional] <a href="https://arxiv.org/pdf/1711.03587.pdf">The stratified micro-randomized trial design: sample size considerations for testing nested causal effects of time-varying treatments</a></li>
+        <li>[Optional] <a href="https://www.nature.com/articles/s41746-018-0029-1.pdf">Scalable and accurate deep learning with electronic health records</a></li>     
+	    </ul>
     </td>
     <td>
     </td>
@@ -162,11 +174,10 @@ title: Schedule
     <td>Lecture 9: Missingness and Representations</td> 
     <td>
       <ul>
-        <li>[Required] <a href="https://arxiv.org/pdf/1606.01865.pdf">Recurrent Neural Networks for Multivariate Time Series with Missing Values</a></li>
         <li>[Required] <a href="https://academic.oup.com/biomet/article-abstract/63/3/581/270932">Inference and missing data</a></li>
         <li>[Required] <a href="http://www.cs.toronto.edu/~zemel/documents/2011-IJCAI-MZRS.pdf">Recommender Systems: Missing Data and Statistical Model Estimation</a></li>
         <li>[Required] <a href="http://www.marzyehghassemi.com/wp-content/uploads/2018/01/semi-supervised-CWR-GAN_Ghassemi.pdf">Semi-supervised Biomedical Translation with Cycle Wasserstein Regression GANs</a></li>
-        <li>[Required] Word2vec, ELMO, BERT (i.e. embedding representations)</li>
+        <li>[Optional] Word2vec, ELMO, BERT (i.e. embedding representations) papers</li>
       </ul>
     </td>
     <td>
@@ -196,10 +207,10 @@ title: Schedule
         <li>[Required] <a href="http://people.dbmi.columbia.edu/noemie/papers/15kdd.pdf">Intelligible Models for HealthCare: Predicting Pneumonia Risk and Hospital 30-day Readmission</a></li>
         <li>[Required] <a href="https://people.csail.mit.edu/taolei/papers/emnlp16_rationale.pdf">Rationalizing Neural Predictions. </a></li>
         <li>[Required] <a href="https://arxiv.org/pdf/1606.03490.pdf">The Mythos of Model Interpretability.</a></li>
-        <li>[Required] <a href="https://www.sciencedirect.com/science/article/pii/S2211883718300996">Why policymakers should care about “big data” in healthcare</a></li>
-        <li>[Required] <a href="https://link.springer.com/chapter/10.1007/978-3-540-79228-4_1">Differential Privacy: A Survey of Results</a></li>
+        <li>[Optional] <a href="https://link.springer.com/chapter/10.1007/978-3-540-79228-4_1">Differential Privacy: A Survey of Results</a></li>
         <li>[Optional] <a href="https://users.cs.duke.edu/~cynthia/LakkarajuRu17.pdf">Learning Cost-Effective and Interpretable Treatment Regimes. </a></li>
-      </ul>
+        <li>[Optional] <a href="https://www.sciencedirect.com/science/article/pii/S2211883718300996">Why policymakers should care about “big data” in healthcare</a></li>      
+	    </ul>
     </td>
     <td>
     </td>
