@@ -72,7 +72,7 @@ title: Schedule
     <td>
     </td>
     <td>
-      Q&A for Assignment 1 on Wednesday, Jan 23 at 4-6pm in GB 405.
+      Office Hours for Homework will be held on Wednesday, Jan 23 at 4-6pm in GB 405.
     </td>
   </tr>
   <tr>
