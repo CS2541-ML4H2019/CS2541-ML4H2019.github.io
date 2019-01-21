@@ -32,7 +32,7 @@ title: Schedule
   </tr>
   <tr>
     <td>Jan 17, 2019 </td>
-    <td>Lecture 2: Supervised Learning for Classification, Risk Scores and Survival</td> 
+    <td>Lecture 2: Supervised Learning for Classification, Risk Scores and Survival <br> <a href="https://cs2541-ml4h2019.github.io/lectures/CSC2541 - Lecture 2.pdf"> Slides </a> </td> 
     <td>
       <ul>		      
         <li>[Required] <a href="https://www.nature.com/articles/s41598-018-24271-9">Recurrent Neural Networks for Multivariate Time Series with Missing Values</a></li>	
