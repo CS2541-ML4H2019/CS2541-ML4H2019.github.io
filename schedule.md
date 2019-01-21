@@ -73,6 +73,12 @@ title: Schedule
     </td>
     <td>
       Office Hours for Homework will be held on Wednesday, Jan 23 at 4-6pm in GB 405.
+	<br><br>    
+	<b> Reflection Questions on Required Papers</b>: 
+	<ul>		      
+		<li> Describe causal identifiability, and its impact on learning with observational data?</li>
+		<li> What is the difference between a standard  Gaussian Process (GP) and a causal GP (CGP) objective function? How does that impact learning?</li>
+	</ul>	    
     </td>
   </tr>
   <tr>
