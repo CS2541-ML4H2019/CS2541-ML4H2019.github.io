@@ -60,7 +60,7 @@ title: Schedule
   </tr>
   <tr>
     <td>Jan 24, 2019</td>
-    <td>Lecture 3: Causal inference with observational data</td> 
+    <td>Lecture 3: Causal inference with observational data<br> <a href="https://cs2541-ml4h2019.github.io/lectures/CSC2541 - Lecture 3.pdf"> Slides </a> </td> 
     <td>
       <ul>
         <li>[Required] <a href="https://www.jstor.org/stable/2289064">Statistics and Causal Inference</a></li>
