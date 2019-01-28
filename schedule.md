@@ -116,7 +116,7 @@ title: Schedule
 	<b> Reflection Questions on Required Papers</b>: 
 	<ul>		      
 		<li> What are ways that bias can enter into a machine learning model's predictions?</li>
-		<li> WAre there reasons that bias in medical data may be harder to detect or distentangle?</li>
+		<li> Are there reasons that bias in medical data may be harder to detect or distentangle?</li>
 	</ul>
     </td>
   </tr>
