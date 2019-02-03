@@ -142,6 +142,13 @@ title: Schedule
     <td>
       <a href='/problem_set/CS2541-ProblemSet-1.pdf'>Homework 1</a> due at 11:59 PM on <a href="https://markus.teach.cs.toronto.edu/csc2541-2019-01">MarkUs</a><br>
       The code for extracting the data from the MIMIC psql database is <a href="https://github.com/CS2541-ML4H2019/CS2541-ML4H2019.github.io/tree/master/problem_set">here</a>
+      <b> Reflection Questions on Required Papers</b>: 
+      <ul>          
+        <li> Briefly discuss the techniques used in these papers to address the missingness/sparsity in electronic medical records.</li>
+        <li> How does the current patient state affect the types of data that are collected in the future?</li>
+        <li> Discuss if/how the models capture and propogate the patients' previous states for predicting clinical events.</li>
+        <li> Compare the techniques used to interpret the models.</li>
+      </ul>
     </td>
   </tr>
   <tr>
