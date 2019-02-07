@@ -31,7 +31,7 @@ Collaboration: We strongly prefer 3-4 registered student per group, but we do pe
       <li>What each student in the group will do.</li>
     </ul>
   </p>
-  <p>We understand that much of this would be preliminary at this stage, but these details are important for us to ensure that you are on the right track. <a href="https://docs.google.com/forms/d/e/1FAIpQLSfOSqcEhOnDvTmkMlOViUY1YF7i3eZOs6RumhWtiihrdBVVag/viewform?usp=sf_link">Submit proposals here</a></p>
+  <p>We understand that much of this would be preliminary at this stage, but these details are important for us to ensure that you are on the right track. Submit proposals on <a href="https://markus.teach.cs.toronto.edu/csc2541-2019-01">Markus</a>.</p>
   <h2 id="presentation">Presentation</h2>
   <p><em>15% of project</em></p>
   <p>15 minutes in class on either March 28th or April 4th. Be prepared for questions after.
@@ -39,7 +39,7 @@ Collaboration: We strongly prefer 3-4 registered student per group, but we do pe
   </p>
   <h2 id="report">Report</h2>
   <p><em>70% of project</em></p>
-  <p>Due April 4th at 11:59pm. Please submit on <a>TBD</a> the following:
+  <p>Due April 4th at 11:59pm. Please submit your report on <a href="https://markus.teach.cs.toronto.edu/csc2541-2019-01">Markus</a>. The requirements for the report are:
     <ul>
       <li>8 pages (not including references)</li>
       <li> <a href="https://nips.cc/Conferences/2018/PaperInformation/StyleFiles"><b>TBD</b></a> conference format</li>
