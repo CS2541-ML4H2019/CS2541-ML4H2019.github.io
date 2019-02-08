@@ -89,7 +89,7 @@ title: Schedule
   </tr>
   <tr>
     <td>Jan 31, 2019</td>
-    <td>Lecture 4: Fairness, Ethics, and Healthcare</td> 
+    <td>Lecture 4: Fairness, Ethics, and Healthcare<br> <a href="https://cs2541-ml4h2019.github.io/lectures/CSC2541 - Lecture 4.pdf"> Slides </a> </td>
     <td>
       <ul>
         <li>[Required] <a href="http://www.jmlr.org/proceedings/papers/v28/zemel13.pdf">Learning Fair Representations</a></li>
@@ -122,7 +122,7 @@ title: Schedule
   </tr>
   <tr>
     <td id="feb">Feb 7, 2019</td>
-    <td>Lecture 5: Clinical Time Series Modelling</td> 
+    <td>Lecture 5: Clinical Time Series Modelling<br> <a href="https://cs2541-ml4h2019.github.io/lectures/CSC2541 - Lecture 5.pdf"> Slides </a> </td>
     <td>
       <ul>
         <li>[Required] <a href="http://mucmd.org/CameraReadySubmissions/65%5CCameraReadySubmission%5Cclinical-intervention-prediction%20(4).pdf">Clinical Intervention Prediction and Understanding with Deep Neural Networks</a></li>
@@ -142,13 +142,6 @@ title: Schedule
     <td>
       <a href='/problem_set/CS2541-ProblemSet-1.pdf'>Homework 1</a> due at 11:59 PM on <a href="https://markus.teach.cs.toronto.edu/csc2541-2019-01">MarkUs</a><br>
       The code for extracting the data from the MIMIC psql database is <a href="https://github.com/CS2541-ML4H2019/CS2541-ML4H2019.github.io/tree/master/problem_set">here</a>
-      <b> Reflection Questions on Required Papers</b>: 
-      <ul>          
-        <li> Briefly discuss the techniques used in these papers to address the missingness/sparsity in electronic medical records.</li>
-        <li> How does the current patient state affect the types of data that are collected in the future?</li>
-        <li> Discuss if/how the models capture and propogate the patients' previous states for predicting clinical events.</li>
-        <li> Compare the techniques used to interpret the models.</li>
-      </ul>
     </td>
   </tr>
   <tr>
@@ -231,7 +224,6 @@ title: Schedule
         <li>[Required] <a href="https://academic.oup.com/biomet/article-abstract/63/3/581/270932">Inference and missing data</a></li>
         <li>[Required] <a href="http://www.cs.toronto.edu/~zemel/documents/2011-IJCAI-MZRS.pdf">Recommender Systems: Missing Data and Statistical Model Estimation</a></li>
         <li>[Required] <a href="http://www.marzyehghassemi.com/wp-content/uploads/2018/01/semi-supervised-CWR-GAN_Ghassemi.pdf">Semi-supervised Biomedical Translation with Cycle Wasserstein Regression GANs</a></li>
-        <li>[Optional] Word2vec, ELMO, BERT (i.e. embedding representations) papers</li>
       </ul>
     </td>
     <td>
@@ -243,6 +235,12 @@ title: Schedule
       </ol>
     </td>
     <td>
+      <b> Reflection Questions on Required Papers</b>: 
+      <ul>          
+        <li> Briefly discuss the techniques used in these papers to address the missingness/sparsity in electronic medical records.</li>
+        <li> How does the current patient state affect the types of data that are collected in the future?</li>
+        <li> Discuss if/how the models capture and propogate the patients' previous states for predicting clinical events.</li>
+      </ul>	    
     </td>
   </tr>
   <tr>
