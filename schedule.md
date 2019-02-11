@@ -149,12 +149,12 @@ title: Schedule
     <td>Lecture 6: Clinical Imaging (Radiology/Pathology)></td> 
     <td>
       <ul>
-        <li>[Required] <a href="https://www.nejm.org/doi/full/10.1056/NEJMp1716891">Bedside computer vision — Moving artificial intelligence from driver assistance to patient safety</a></li>
         <li>[Required] <a href="https://ieeexplore.ieee.org/abstract/document/8217719/">Deep learning assessment of tumor proliferation in breast cancer histological images</a></li>
         <li>[Required] <a href="https://arxiv.org/pdf/1711.05225.pdf">CheXNet: Radiologist-level pneumonia detection on chest X-rays with deep learning</a></li>
-        <li>[Required] <a href="http://becklab.hms.harvard.edu/files/becklab/files/sci_transl_med-2011-beck-108ra113.pdf">Systematic analysis of breast cancer morphology uncovers stromal features associated with survival</a></li>
         <li>[Required] <a href="https://www.nature.com/articles/nature21056.epdf">Dermatologist-level classification of skin cancer with deep neural networks</a></li>
         <li>[Optional] <a href="https://jamanetwork.com/journals/jama/fullarticle/2588763">Development and Validation of a Deep Learning Algorithm for Detection of Diabetic Retinopathy in Retinal Fundus Photographs</a></li>
+        <li>[Optional] <a href="https://www.nejm.org/doi/full/10.1056/NEJMp1716891">Bedside computer vision — Moving artificial intelligence from driver assistance to patient safety</a></li>	      
+        <li>[Optional] <a href="http://becklab.hms.harvard.edu/files/becklab/files/sci_transl_med-2011-beck-108ra113.pdf">Systematic analysis of breast cancer morphology uncovers stromal features associated with survival</a></li>	      
       </ul>
     </td>
     <td>
