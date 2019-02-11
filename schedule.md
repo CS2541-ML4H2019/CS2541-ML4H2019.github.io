@@ -167,6 +167,12 @@ title: Schedule
     </td>
     <td>
 	    Project proposals due at 5PM <a href="https://docs.google.com/forms/d/e/1FAIpQLSfOSqcEhOnDvTmkMlOViUY1YF7i3eZOs6RumhWtiihrdBVVag/viewform?usp=sf_link">here</a>.
+	<br><br>
+	<b> Reflection Questions on Required Papers</b>: 
+	<ul>		      
+		<li> What are some cirtical differences between clinical imaging and images found in standard vision datasets?</li>
+		<li> Are there standard pre-processing or modelling techniques that don't make sense in clinical images?</li>
+	</ul>	    
     </td>
   </tr>
   <tr>
@@ -174,10 +180,9 @@ title: Schedule
     <td>Lecture 7: Clinical NLP and Audio</td> 
     <td>
       <ul>
-        <li>[Required] <a href="https://arxiv.org/abs/1808.08485">Deep Probabilistic Logic: A Unifying Framework for Indirect Supervision</a></li>
         <li>[Required] <a href="https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/5b7373cc032be4fab0075363/1534292941994/30.pdf">Multi-Label Learning from Medical Plain Text with Convolutional Residual Models</a></li>
         <li>[Required] <a href="http://people.dbmi.columbia.edu/~chw7007/papers/chapter%2016.pdf">Natural Language Processing, Electronic Health Records, Clinical Research</a></li>
-        <li>[Required] <a href="https://academic.oup.com/jamia/article-abstract/17/5/507/830823">Mayo clinical Text Analysis and Knowledge Extraction System (cTAKES): architecture, component evaluation and applications</a></li>
+        <li>[Required] <a href="https://academic.oup.com/jamia/article-abstract/17/5/507/830823">Mayo clinical Text Analysis and Knowledge Extraction System (cTAKES): architecture, component evaluation and applications</a></li><li>[Optional] <a href="https://arxiv.org/abs/1808.08485">Deep Probabilistic Logic: A Unifying Framework for Indirect Supervision</a></li>
       </ul>
     </td>
     <td>
@@ -189,6 +194,11 @@ title: Schedule
       </ol>
     </td>
     <td>
+	<b> Reflection Questions on Required Papers</b>: 
+	<ul>		      
+		<li> How could external knowledge could be added to clinical NLP models and for what tasks might that make sense?</li>
+		<li> How could clinical NLP benefit from using structured EHR data?</li>
+	</ul>	   	    
     </td>
   </tr>
   <tr>
