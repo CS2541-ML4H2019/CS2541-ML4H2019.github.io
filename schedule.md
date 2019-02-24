@@ -146,7 +146,7 @@ title: Schedule
   </tr>
   <tr>
     <td>Feb 14, 2019</td>
-    <td>Lecture 6: Clinical Imaging (Radiology/Pathology)></td> 
+    <td>Lecture 6: Clinical Imaging (Radiology/Pathology)<br> <a href="https://cs2541-ml4h2019.github.io/lectures/CSC2541 - Lecture 6.pdf"> Slides </a> </td> 
     <td>
       <ul>
         <li>[Required] <a href="https://ieeexplore.ieee.org/abstract/document/8217719/">Deep learning assessment of tumor proliferation in breast cancer histological images</a></li>
@@ -177,7 +177,7 @@ title: Schedule
   </tr>
   <tr>
     <td>Feb 21, 2019</td>
-    <td>Lecture 7: Clinical NLP and Audio</td> 
+    <td>Lecture 7: Clinical NLP and Audio<br> <a href="https://cs2541-ml4h2019.github.io/lectures/CSC2541 - Lecture 7.pdf"> Slides </a> </td> 
     <td>
       <ul>
         <li>[Required] <a href="https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/5b7373cc032be4fab0075363/1534292941994/30.pdf">Multi-Label Learning from Medical Plain Text with Convolutional Residual Models</a></li>
@@ -208,7 +208,7 @@ title: Schedule
       <ul>
         <li>[Required] <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3143507/pdf/nihms266705.pdf">Informing sequential clinical decision-making through reinforcement learning: an empirical study</a></li>
         <li>[Required] <a href="https://arxiv.org/pdf/1704.06300.pdf">A Reinforcement Learning Approach to Weaning of Mechanical Ventilation in Intensive Care Units</a></li>
-        <li><a href="https://arxiv.org/pdf/1707.06289.pdf">Meaningless comparisons lead to false optimism in medical machine learning</a></li>
+        <li>[Required] <a href="https://arxiv.org/pdf/1707.06289.pdf">Meaningless comparisons lead to false optimism in medical machine learning</a></li>
         <li>[Required] <a href="https://arxiv.org/pdf/1805.12298.pdf">Evaluating Reinforcement Learning Algorithms in Observational Health Settings</a></li>
         <li>[Optional] <a href="https://arxiv.org/pdf/1807.01066.pdf">Behaviour policy estimation in off-policy policy evaluation: Calibration matters</a></li>
         <li>[Optional] <a href="https://arxiv.org/pdf/1711.03587.pdf">The stratified micro-randomized trial design: sample size considerations for testing nested causal effects of time-varying treatments</a></li>
@@ -224,6 +224,11 @@ title: Schedule
       </ol>
     </td>
     <td>
+	<b> Reflection Questions on Required Papers</b>: 
+	<ul>		      
+		<li> What are particularly cproblems with off-policy evaluation in a clinical RL setting?</li>
+		<li> What are possible problems that could arise with have action and state spaces chosen in the papers?</li>
+	</ul>		    
     </td>
   </tr>
   <tr>
