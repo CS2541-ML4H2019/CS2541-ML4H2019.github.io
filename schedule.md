@@ -226,8 +226,8 @@ title: Schedule
     <td>
 	<b> Reflection Questions on Required Papers</b>: 
 	<ul>		      
-		<li> What are particularly cproblems with off-policy evaluation in a clinical RL setting?</li>
-		<li> What are possible problems that could arise with have action and state spaces chosen in the papers?</li>
+		<li> What are particular problems with off-policy evaluation in a clinical RL setting?</li>
+		<li> What problems can arise with the action and state spaces chosen in the papers?</li>
 	</ul>		    
     </td>
   </tr>
