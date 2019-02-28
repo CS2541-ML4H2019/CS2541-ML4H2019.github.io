@@ -203,7 +203,7 @@ title: Schedule
   </tr>
   <tr>
     <td>Feb 28, 2019</td>
-    <td>Lecture 8: Clinical Reinforcement Learning</td> 
+    <td>Lecture 8: Clinical Reinforcement Learning<br> <a href="https://cs2541-ml4h2019.github.io/lectures/CSC2541 - Lecture 8.pdf"> Slides </a> </td> 
     <td>
       <ul>
         <li>[Required] <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3143507/pdf/nihms266705.pdf">Informing sequential clinical decision-making through reinforcement learning: an empirical study</a></li>
