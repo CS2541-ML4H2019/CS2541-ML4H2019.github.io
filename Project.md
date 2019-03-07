@@ -11,7 +11,7 @@ title: Course Project
     <ul>
       <li><a href="#proposal">Project proposals</a> (one per group): Feb 7th at 5pm.</li>
       <li><a href="#presentation">Project presentations</a>: March 28th and April 4th in class.</li>
-      <li><a href="#project">Project report (one per group)</a>: April 4th at 11:59pm.</li>
+      <li><a href="#project">Project report (one per group)</a>: April 11th at 11:59pm.</li>
     </ul>
   </p>
   <h2>Groups</h2>
@@ -39,7 +39,7 @@ Collaboration: We strongly prefer 3-4 registered student per group, but we do pe
   </p>
   <h2 id="report">Report</h2>
   <p><em>70% of project</em></p>
-  <p>Due April 4th at 11:59pm. Please submit your report on <a href="https://markus.teach.cs.toronto.edu/csc2541-2019-01">Markus</a>. The requirements for the report are:
+  <p>Due April 11th at 11:59pm. Please submit your report on <a href="https://markus.teach.cs.toronto.edu/csc2541-2019-01">Markus</a>. The requirements for the report are:
     <ul>
       <li>8 pages (not including references)</li>
       <li> <a href="https://nips.cc/Conferences/2018/PaperInformation/StyleFiles"><b>TBD</b></a> conference format</li>

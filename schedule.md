@@ -316,6 +316,14 @@ title: Schedule
     <td></td>
     <td>
     </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>April 11, 2019</td>
+    <td>Projects Due</td> 
+    <td></td>
+    <td>
+    </td>
     <td>Project report due 11:59PM</td>
   </tr>
 </table>
