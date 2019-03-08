@@ -233,7 +233,7 @@ title: Schedule
   </tr>
   <tr>
     <td id="mar">Mar 7, 2019</td>
-    <td>Lecture 9: Missingness and Representations</td> 
+    <td>Lecture 9: Missingness and Representations<br> <a href="https://cs2541-ml4h2019.github.io/lectures/CSC2541 - Lecture 9.pdf"> Slides </a> </td> 
     <td>
       <ul>
         <li>[Required] <a href="https://academic.oup.com/biomet/article-abstract/63/3/581/270932">Inference and missing data</a></li>
