@@ -276,6 +276,11 @@ title: Schedule
       </ol>
     </td>
     <td>
+      <b> Reflection Questions on Required Papers</b>: 
+      <ul>          
+        <li> Does multi-task learning inherently create more generalizable models?</li>
+        <li>Are there conditions for which non-stationarity could be ignored in model training and deployment?</li>
+      </ul>	    
     </td>
   </tr>
   <tr>
