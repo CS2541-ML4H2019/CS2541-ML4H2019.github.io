@@ -260,7 +260,7 @@ title: Schedule
   </tr>
   <tr>
     <td>Mar 14, 2019</td>
-    <td>Lecture 10: Generalization and transfer learning</td> 
+    <td>Lecture 10: Generalization and transfer learning<br> <a href="https://cs2541-ml4h2019.github.io/lectures/CSC2541 - Lecture 10.pdf"> Slides </a> </td> 
     <td>
       <ul>
         <li>[Required] <a href="https://www.sciencedirect.com/science/article/pii/S1532046415002282">Implications of non-stationarity on predictive modeling using EHRs</a></li>
@@ -305,9 +305,12 @@ title: Schedule
       </ol>
     </td>
     <td>
+      <b> Reflection Questions on Required Papers</b>: 
+      <ul>   	    
 	<li> What are possible ways that a model could be verified as interpretable? </li>
         <li> Should machine learning models deployed in healthcare settings be held to a higher standard than other application areas? </li>
         <li> What concerns should policy makers have about deploying models to minimize hospital costs?</li>
+    </ul>
     </td>
   </tr>
   <tr>
