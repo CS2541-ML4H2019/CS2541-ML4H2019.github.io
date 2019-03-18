@@ -305,6 +305,9 @@ title: Schedule
       </ol>
     </td>
     <td>
+	<li> What are possible ways that a model could be verified as interpretable? </li>
+        <li> Should machine learning models deployed in healthcare settings be held to a higher standard than other application areas? </li>
+        <li> What concerns should policy makers have about deploying models to minimize hospital costs?</li>
     </td>
   </tr>
   <tr>
